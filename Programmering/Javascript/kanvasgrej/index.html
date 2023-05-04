@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas Intro</title>
+    <style type="text/css">
+        canvas {
+            border: 1px solid black;
+        }
+        body {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<style>
+    div {
+      border: 0px solid black;
+      margin: 5px 15px 5px 15px;
+      background-color: moccasin;
+    }
+    </style>
+
+<body style="background-color: moccasin;">
+    <canvas></canvas>
+    <script src="canvas.js"></script>
+    <div>
+        <p>Detta är ett litet exempel på hur man lägga figurer på en
+        "canvas" i JavaScript. Det går även att skapa animeringar
+        och interaktioner (t ex spel).</p>
+
+        <p>
+            Koden till <a href="https://gist.github.com/nikodemusk/bf81477175036b91507cd468cde30555">denna HTML-fil finns här</a>
+            och koden till <a href="https://gist.github.com/nikodemusk/d189d2fe83d78dcc557dfb03acb01fd5">JavaScript-filen finns här</a>.
+            Pröva att modifiera JavaScript-filen så att
+            <ul>
+                <li>
+                    Färgerna på triangeln, kvadraterna och texten ändras
+                    (<a href="https://www.w3schools.com/colors/colors_names.asp">här finns namn och koder på färger som kan användas</a>)
+                </li>
+                <li>
+                    Justera vinkeln på texten
+                </li>
+                <li>
+                    Flytta på en av triangelns spetsar så att den hamnar i mitten av den innersta ringen
+                </li>
+                <li>
+                    Förändra antalet prickar som bygger upp respektive ring
+                </li>
+                <li>
+                    Förändra avståndet mellan ringarna
+                </li>
+                <li>
+                    Ändra på färgerna på prickarna som bygger upp ringarna
+                </li>
+                <li>
+                    Ändra så att färgerna på prickarna <b>i respektive ring</b> varieras<br>
+                    (detta är en väldigt liten förändring som behövs göras, men det gäller att lista ut vad som ska göras)
+                </li>
+                <li>
+                    Bygg upp en liknande canvas där du experimenterar med former, färger och placeringar.
+                    Istället för att bygga upp ringar som här kan man t ex börja med att lägga upp små
+                    kvadrater i olika färger i raka rader; det är lättare att placera ut detta än små fyllda
+                    cirklar i ringar.
+                </li>
+            </ul>
+        </p>
+
+        <p>Några länkar där det både finns mer information om orörliga figurer som animeringar och interaktioner:
+        <ul>
+            <li>
+                <a href="https://youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL">Tutorial på YouTube</a>
+            </li>
+            <li>
+                <a href="https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript">Gör ett Breakout-spel steg för steg</a>
+            </li>
+        </ul>
+        </p>
+    </div>
+</body>
+</html>

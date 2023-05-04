@@ -1,0 +1,7 @@
+D:\Projekt\Programmering\C-sharp\ConsoleAppLearn\ConsoleAppLearn\bin\Debug\ConsoleAppLearn.exe.config
+D:\Projekt\Programmering\C-sharp\ConsoleAppLearn\ConsoleAppLearn\bin\Debug\ConsoleAppLearn.exe
+D:\Projekt\Programmering\C-sharp\ConsoleAppLearn\ConsoleAppLearn\bin\Debug\ConsoleAppLearn.pdb
+D:\Projekt\Programmering\C-sharp\ConsoleAppLearn\ConsoleAppLearn\obj\Debug\ConsoleAppLearn.csprojAssemblyReference.cache
+D:\Projekt\Programmering\C-sharp\ConsoleAppLearn\ConsoleAppLearn\obj\Debug\ConsoleAppLearn.csproj.CoreCompileInputs.cache
+D:\Projekt\Programmering\C-sharp\ConsoleAppLearn\ConsoleAppLearn\obj\Debug\ConsoleAppLearn.exe
+D:\Projekt\Programmering\C-sharp\ConsoleAppLearn\ConsoleAppLearn\obj\Debug\ConsoleAppLearn.pdb
