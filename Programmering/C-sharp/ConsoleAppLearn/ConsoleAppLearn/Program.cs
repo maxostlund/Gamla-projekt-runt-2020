@@ -11,16 +11,16 @@ namespace ConsoleAppLearn
         static void Main(string[] args)
         {
             
-            System.Console.WriteLine("Whatcha neme");
+            System.Console.WriteLine("What is your name");
 
             try
             {
                 string name = Console.ReadLine();
-                Console.WriteLine("ya neme e " + name);
+                Console.WriteLine("So your name is " + name);
             }
             catch 
             {
-                Console.WriteLine("nigga yo name aint");
+                Console.WriteLine("That's not your name");
             }
             Console.ReadLine();
         }
